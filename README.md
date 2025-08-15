@@ -31,3 +31,5 @@ This project focuses on simplicity, smooth UX, and powerful task management.
 Ibrahim
 
 An enthusiast developer who loves building clean & interactive web apps.
+
+## Follow me on IG!
